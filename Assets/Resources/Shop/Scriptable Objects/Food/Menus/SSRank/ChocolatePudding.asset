@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f35e84a3620a9b4f90493d6fd123eb5, type: 3}
+  m_Name: ChocolatePudding
+  m_EditorClassIdentifier: 
+  ID: 19
+  image: {fileID: 21300000, guid: 78ef482dd59abb04bb5c95cf0c59405f, type: 3}
+  title: "\uCD08\uCF54 \uD478\uB529"
+  description: "\uC309\uC2F8\uB984\uD55C \uB2E4\uD06C \uCD08\uCF54 \uD30C\uC6B0\uB354\uB85C
+    \uB9CC\uB4E0 \uD478\uB529. \uBFCC\uB824\uC9C4 \uB3C5\uD2B9\uD55C \uB0A0\uAC1C
+    \uD6C4\uB808\uC774\uD06C\uB85C \uB9D0\uCE89\uBC14\uC0AD\uD55C \uC2DD\uAC10\uC744
+    \uB290\uAEF4\uBCFC \uC218 \uC788\uC5B4\uC694!"
+  rank: SS
+  successRate: 3
+  cost: 15000
+  ingridientNeeded:
+  - {fileID: 11400000, guid: c996985366d2a284d9c14f6a96c05142, type: 2}
+  - {fileID: 11400000, guid: 9f285158923fe2347884436b20089cd2, type: 2}
+  - {fileID: 11400000, guid: 8d2914e931cef76419c0a35765676fe5, type: 2}
+  - {fileID: 11400000, guid: 21dd7c0c0f93602459274861cd36c890, type: 2}

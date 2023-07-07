@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f35e84a3620a9b4f90493d6fd123eb5, type: 3}
+  m_Name: CocoonSoup
+  m_EditorClassIdentifier: 
+  ID: 10
+  image: {fileID: 21300000, guid: d4f4b1f6065512642bc40989249a5607, type: 3}
+  title: "\uBC88\uB370\uAE30\uD0D5"
+  description: "\uD48D\uBD80\uD55C \uC601\uC591\uC18C\uB97C \uAC00\uC9C0\uACE0 \uC788\uB294
+    \uAC74\uAC15\uB9CC\uC810 \uAC78\uCB49\uD55C \uBC88\uB370\uAE30 \uD0D5!"
+  rank: A
+  successRate: 10
+  cost: 5000
+  ingridientNeeded:
+  - {fileID: 11400000, guid: adfedee1f6e3e934687ca119f4ddba68, type: 2}
+  - {fileID: 11400000, guid: 2b656359630fa9147bc7500089be8336, type: 2}
+  - {fileID: 11400000, guid: a562dcf168288f24abfadcee00785037, type: 2}

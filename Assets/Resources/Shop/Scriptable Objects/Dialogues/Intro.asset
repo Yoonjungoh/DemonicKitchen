@@ -1,0 +1,639 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 822120924a10db34a8386622bb66d864, type: 3}
+  m_Name: Intro
+  m_EditorClassIdentifier: 
+  lines:
+  - line: "\uD718\uC774\uC774\uC789-."
+    actor: {fileID: 11400000, guid: e839f90eddbba9e44a504393a0dc556f, type: 2}
+    spriteChanges: []
+    backgroundChanges:
+    - sprite: {fileID: 21300000, guid: acfb32f4785d29f4d90f851679d75232, type: 3}
+      onScreenImageID: 0
+    audioClip: {fileID: 0}
+    stopAudio: 0
+  - line: "\uC774\uACF3\uC740 \uB9C8\uACC4."
+    actor: {fileID: 11400000, guid: e839f90eddbba9e44a504393a0dc556f, type: 2}
+    spriteChanges: []
+    backgroundChanges:
+    - sprite: {fileID: 21300000, guid: acfb32f4785d29f4d90f851679d75232, type: 3}
+      onScreenImageID: 0
+    audioClip: {fileID: 0}
+    stopAudio: 0
+  - line: "\uADF8\uB9AC\uACE0 \uB09C \uB9C8\uC655\uC131\uC758 \uC8FC\uBC29\uC7A5\uC778
+      \uBCA8\uC81C\uBDF0\uD2B8\uB2E4. \uB2E4\uB4E4 \uB0A0 \uBCA8\uC774\uB77C\uACE0
+      \uBD80\uB974\uC9C0."
+    actor: {fileID: 11400000, guid: e839f90eddbba9e44a504393a0dc556f, type: 2}
+    spriteChanges: []
+    backgroundChanges:
+    - sprite: {fileID: 21300000, guid: acfb32f4785d29f4d90f851679d75232, type: 3}
+      onScreenImageID: 0
+    audioClip: {fileID: 0}
+    stopAudio: 0
+  - line: "\uC624\uB298\uB3C4 \uC5B4\uAE40\uC5C6\uC774 \uCD5C\uACE0\uC758 \uC2DD\uC0AC\uB97C
+      \uB300\uC811\uD558\uAE30 \uC704\uD574 \uD63C\uC2E0\uC758 \uD798\uC744 \uB2F4\uACE0\uC788\uB2E4."
+    actor: {fileID: 11400000, guid: e839f90eddbba9e44a504393a0dc556f, type: 2}
+    spriteChanges: []
+    backgroundChanges:
+    - sprite: {fileID: 21300000, guid: acfb32f4785d29f4d90f851679d75232, type: 3}
+      onScreenImageID: 0
+    audioClip: {fileID: 0}
+    stopAudio: 0
+  - line: "\uC624\uB77C-!! \uC624\uB77C\uC624\uB77C-!!"
+    actor: {fileID: 11400000, guid: 51b15e9b5d25d7146b04b5acd4596e01, type: 2}
+    spriteChanges:
+    - actor: {fileID: 11400000, guid: 51b15e9b5d25d7146b04b5acd4596e01, type: 2}
+      expression: 0
+      onScreenImageID: 0
+    backgroundChanges:
+    - sprite: {fileID: 21300000, guid: acfb32f4785d29f4d90f851679d75232, type: 3}
+      onScreenImageID: 0
+    audioClip: {fileID: 0}
+    stopAudio: 0
+  - line: "\uC6B0\uC624\uC624\uC624\uC624\uC624\uC624-!!"
+    actor: {fileID: 11400000, guid: 51b15e9b5d25d7146b04b5acd4596e01, type: 2}
+    spriteChanges:
+    - actor: {fileID: 11400000, guid: 51b15e9b5d25d7146b04b5acd4596e01, type: 2}
+      expression: 0
+      onScreenImageID: 0
+    backgroundChanges:
+    - sprite: {fileID: 21300000, guid: acfb32f4785d29f4d90f851679d75232, type: 3}
+      onScreenImageID: 0
+    audioClip: {fileID: 0}
+    stopAudio: 0
+  - line: "\uAC00\uBB38 \uB300\uB300\uB85C \uB0B4\uB824\uC838\uC624\uB294 \uB808\uC2DC\uD53C\uB85C
+      \uB9CC\uB4E0 \uD480\uCF54\uC2A4 \uBA54\uB274.. \uC624\uB298\uC740 \uAF2D..
+      \uACF5\uC8FC\uB2D8\uAED8 \uC778\uC815\uC744 \uBC1B\uACE0\uC57C \uB9D0\uD14C\uB2E4-!"
+    actor: {fileID: 11400000, guid: e839f90eddbba9e44a504393a0dc556f, type: 2}
+    spriteChanges:
+    - actor: {fileID: 11400000, guid: e839f90eddbba9e44a504393a0dc556f, type: 2}
+      expression: 0
+      onScreenImageID: 0
+    backgroundChanges:
+    - sprite: {fileID: 21300000, guid: acfb32f4785d29f4d90f851679d75232, type: 3}
+      onScreenImageID: 0
+    audioClip: {fileID: 0}
+    stopAudio: 0
+  - line: "\uC2DD\uC0AC\uD558\uC2E4 \uC2DC\uAC04\uC785\uB2C8\uB2E4, \uACF5\uC8FC\uB2D8.."
+    actor: {fileID: 11400000, guid: 51b15e9b5d25d7146b04b5acd4596e01, type: 2}
+    spriteChanges:
+    - actor: {fileID: 11400000, guid: 51b15e9b5d25d7146b04b5acd4596e01, type: 2}
+      expression: 0
+      onScreenImageID: 1
+    - actor: {fileID: 0}
+      expression: 0
+      onScreenImageID: 0
+    backgroundChanges:
+    - sprite: {fileID: 21300000, guid: acfb32f4785d29f4d90f851679d75232, type: 3}
+      onScreenImageID: 0
+    audioClip: {fileID: 0}
+    stopAudio: 0
+  - line: .........
+    actor: {fileID: 11400000, guid: 3d2134866ebb33748a99246530c5eff7, type: 2}
+    spriteChanges:
+    - actor: {fileID: 11400000, guid: 51b15e9b5d25d7146b04b5acd4596e01, type: 2}
+      expression: 0
+      onScreenImageID: 1
+    - actor: {fileID: 11400000, guid: 3d2134866ebb33748a99246530c5eff7, type: 2}
+      expression: 0
+      onScreenImageID: 3
+    backgroundChanges:
+    - sprite: {fileID: 21300000, guid: acfb32f4785d29f4d90f851679d75232, type: 3}
+      onScreenImageID: 0
+    audioClip: {fileID: 0}
+    stopAudio: 0
+  - line: "\uC5B4.. \uC5B4\uB77C.. \uC65C \uB9D0\uC500\uC744 \uC548\uD558\uC2DC\uB294\uAC70\uC9C0..?"
+    actor: {fileID: 11400000, guid: e839f90eddbba9e44a504393a0dc556f, type: 2}
+    spriteChanges:
+    - actor: {fileID: 11400000, guid: 51b15e9b5d25d7146b04b5acd4596e01, type: 2}
+      expression: 0
+      onScreenImageID: 1
+    - actor: {fileID: 11400000, guid: 3d2134866ebb33748a99246530c5eff7, type: 2}
+      expression: 0
+      onScreenImageID: 3
+    backgroundChanges:
+    - sprite: {fileID: 21300000, guid: acfb32f4785d29f4d90f851679d75232, type: 3}
+      onScreenImageID: 0
+    audioClip: {fileID: 0}
+    stopAudio: 0
+  - line: "\uACF5\uC8FC\uB2D8, \uC2DD\uC0AC\uB294 \uC785\uC5D0 \uB9DE\uC73C\uC2ED\uB2C8\u3132.."
+    actor: {fileID: 11400000, guid: 51b15e9b5d25d7146b04b5acd4596e01, type: 2}
+    spriteChanges:
+    - actor: {fileID: 11400000, guid: 3d2134866ebb33748a99246530c5eff7, type: 2}
+      expression: 0
+      onScreenImageID: 3
+    - actor: {fileID: 11400000, guid: 51b15e9b5d25d7146b04b5acd4596e01, type: 2}
+      expression: 0
+      onScreenImageID: 1
+    backgroundChanges:
+    - sprite: {fileID: 21300000, guid: acfb32f4785d29f4d90f851679d75232, type: 3}
+      onScreenImageID: 0
+    audioClip: {fileID: 0}
+    stopAudio: 0
+  - line: "\uD264."
+    actor: {fileID: 11400000, guid: 3d2134866ebb33748a99246530c5eff7, type: 2}
+    spriteChanges:
+    - actor: {fileID: 11400000, guid: 51b15e9b5d25d7146b04b5acd4596e01, type: 2}
+      expression: 0
+      onScreenImageID: 1
+    - actor: {fileID: 11400000, guid: 3d2134866ebb33748a99246530c5eff7, type: 2}
+      expression: 0
+      onScreenImageID: 3
+    backgroundChanges:
+    - sprite: {fileID: 21300000, guid: acfb32f4785d29f4d90f851679d75232, type: 3}
+      onScreenImageID: 0
+    audioClip: {fileID: 0}
+    stopAudio: 0
+  - line: "....... \uD264?"
+    actor: {fileID: 11400000, guid: e839f90eddbba9e44a504393a0dc556f, type: 2}
+    spriteChanges:
+    - actor: {fileID: 11400000, guid: 51b15e9b5d25d7146b04b5acd4596e01, type: 2}
+      expression: 0
+      onScreenImageID: 1
+    - actor: {fileID: 11400000, guid: 3d2134866ebb33748a99246530c5eff7, type: 2}
+      expression: 0
+      onScreenImageID: 3
+    backgroundChanges:
+    - sprite: {fileID: 21300000, guid: acfb32f4785d29f4d90f851679d75232, type: 3}
+      onScreenImageID: 0
+    audioClip: {fileID: 0}
+    stopAudio: 0
+  - line: "\uC548 \uBA39\uC744\uB798."
+    actor: {fileID: 11400000, guid: 3d2134866ebb33748a99246530c5eff7, type: 2}
+    spriteChanges:
+    - actor: {fileID: 11400000, guid: 51b15e9b5d25d7146b04b5acd4596e01, type: 2}
+      expression: 0
+      onScreenImageID: 1
+    - actor: {fileID: 11400000, guid: 3d2134866ebb33748a99246530c5eff7, type: 2}
+      expression: 0
+      onScreenImageID: 3
+    backgroundChanges:
+    - sprite: {fileID: 21300000, guid: acfb32f4785d29f4d90f851679d75232, type: 3}
+      onScreenImageID: 0
+    audioClip: {fileID: 0}
+    stopAudio: 0
+  - line: "\uB0B4\uAC00 \uC774\uD2C0 \uC5F0\uC18D\uC73C\uB85C \uAC19\uC740 \uC74C\uC2DD
+      \uC62C\uB824\uB193\uC9C0 \uB9D0\uB77C\uACE0 \uD588\uC9C0? \uB0B4 \uB9D0\uC774
+      \uB9D0 \uAC19\uC9C0\uB3C4 \uC54A\uC740\uAC00\uBD10?"
+    actor: {fileID: 11400000, guid: 3d2134866ebb33748a99246530c5eff7, type: 2}
+    spriteChanges:
+    - actor: {fileID: 11400000, guid: 51b15e9b5d25d7146b04b5acd4596e01, type: 2}
+      expression: 0
+      onScreenImageID: 1
+    - actor: {fileID: 11400000, guid: 3d2134866ebb33748a99246530c5eff7, type: 2}
+      expression: 0
+      onScreenImageID: 3
+    backgroundChanges:
+    - sprite: {fileID: 21300000, guid: acfb32f4785d29f4d90f851679d75232, type: 3}
+      onScreenImageID: 0
+    audioClip: {fileID: 0}
+    stopAudio: 0
+  - line: "\uADF8\uB9AC\uACE0 \uC74C\uC2DD \uAC04\uC774 \uC65C \uC8C4\uB2E4 \uC774\uB530\uC704\uC57C?
+      \uAC04\uC744 \uBCF4\uAE34 \uD55C\uAC70\uC57C? \uC2F1\uAC81\uC796\uC544! \uAF2C\uB9F9\uC774\uB4E4
+      \uCCD0\uBA39\uC73C\uB77C\uACE0 \uB9CC\uB4E0\uAC70\uC57C?"
+    actor: {fileID: 11400000, guid: 3d2134866ebb33748a99246530c5eff7, type: 2}
+    spriteChanges:
+    - actor: {fileID: 11400000, guid: 51b15e9b5d25d7146b04b5acd4596e01, type: 2}
+      expression: 0
+      onScreenImageID: 1
+    - actor: {fileID: 11400000, guid: 3d2134866ebb33748a99246530c5eff7, type: 2}
+      expression: 0
+      onScreenImageID: 3
+    backgroundChanges:
+    - sprite: {fileID: 21300000, guid: acfb32f4785d29f4d90f851679d75232, type: 3}
+      onScreenImageID: 0
+    audioClip: {fileID: 0}
+    stopAudio: 0
+  - line: "\uB09C \uB9C8\uC655\uC774\uB77C\uACE0. \uC774\uB534\uAC74 \uC6B0\uB9AC
+      \uCF00\uB974\uBCA0\uB85C\uC2A4\uB3C4 \uC548 \uBA39\uC5B4."
+    actor: {fileID: 11400000, guid: 3d2134866ebb33748a99246530c5eff7, type: 2}
+    spriteChanges:
+    - actor: {fileID: 11400000, guid: 51b15e9b5d25d7146b04b5acd4596e01, type: 2}
+      expression: 0
+      onScreenImageID: 1
+    - actor: {fileID: 11400000, guid: 3d2134866ebb33748a99246530c5eff7, type: 2}
+      expression: 0
+      onScreenImageID: 3
+    backgroundChanges:
+    - sprite: {fileID: 21300000, guid: acfb32f4785d29f4d90f851679d75232, type: 3}
+      onScreenImageID: 0
+    audioClip: {fileID: 0}
+    stopAudio: 0
+  - line: "\uC774\uB534 \uAFC0\uAFC0\uC774\uC8FD\uC744 \uC74C\uC2DD\uC774\uB77C\uACE0...
+      \uB2E4 \uAC16\uB2E4 \uBC84\uB824."
+    actor: {fileID: 11400000, guid: 3d2134866ebb33748a99246530c5eff7, type: 2}
+    spriteChanges:
+    - actor: {fileID: 11400000, guid: 51b15e9b5d25d7146b04b5acd4596e01, type: 2}
+      expression: 0
+      onScreenImageID: 1
+    - actor: {fileID: 11400000, guid: 3d2134866ebb33748a99246530c5eff7, type: 2}
+      expression: 0
+      onScreenImageID: 3
+    backgroundChanges:
+    - sprite: {fileID: 21300000, guid: acfb32f4785d29f4d90f851679d75232, type: 3}
+      onScreenImageID: 0
+    audioClip: {fileID: 0}
+    stopAudio: 0
+  - line: "\uC2DD\uC0AC\uB2E4\uC6B4 \uC2DD\uC0AC\uB97C \uD574\uBCF8 \uC9C0\uAC00
+      \uC5B8\uC81C\uC778\uC9C0 \uBAA8\uB974\uACA0\uB124. \uB0B4\uAC00 \uC5B8\uC81C\uAE4C\uC9C0
+      \uC774\uB530\uC704 \uAC83\uB4E4\uC744 \uCC38\uACE0 \uBA39\uC5B4\uC57C \uD560\uAE4C?"
+    actor: {fileID: 11400000, guid: 3d2134866ebb33748a99246530c5eff7, type: 2}
+    spriteChanges:
+    - actor: {fileID: 11400000, guid: 51b15e9b5d25d7146b04b5acd4596e01, type: 2}
+      expression: 0
+      onScreenImageID: 1
+    - actor: {fileID: 11400000, guid: 3d2134866ebb33748a99246530c5eff7, type: 2}
+      expression: 0
+      onScreenImageID: 3
+    backgroundChanges:
+    - sprite: {fileID: 21300000, guid: acfb32f4785d29f4d90f851679d75232, type: 3}
+      onScreenImageID: 0
+    audioClip: {fileID: 0}
+    stopAudio: 0
+  - line: "\uCC38, \uD3D0\uD558\uAED8\uC11C \uB110 '\uBB34\uCC99\uC774\uB098' \uBCF4\uACE0\uC2F6\uC5B4\uD558\uC2DC\uB294\uB370..
+      \uC5B4\uC11C \uAC00\uBCF4\uC9C0\uADF8\uB798?"
+    actor: {fileID: 11400000, guid: 3d2134866ebb33748a99246530c5eff7, type: 2}
+    spriteChanges:
+    - actor: {fileID: 11400000, guid: 51b15e9b5d25d7146b04b5acd4596e01, type: 2}
+      expression: 0
+      onScreenImageID: 1
+    - actor: {fileID: 11400000, guid: 3d2134866ebb33748a99246530c5eff7, type: 2}
+      expression: 0
+      onScreenImageID: 3
+    backgroundChanges:
+    - sprite: {fileID: 21300000, guid: acfb32f4785d29f4d90f851679d75232, type: 3}
+      onScreenImageID: 0
+    audioClip: {fileID: 0}
+    stopAudio: 0
+  - line: "\uC5B4.. \uB0B4\uAC00 \uC9C0\uAE08 \uBB58 \uB4E4\uC740\uAC70\uC9C0?"
+    actor: {fileID: 11400000, guid: e839f90eddbba9e44a504393a0dc556f, type: 2}
+    spriteChanges:
+    - actor: {fileID: 11400000, guid: 3d2134866ebb33748a99246530c5eff7, type: 2}
+      expression: 0
+      onScreenImageID: 3
+    - actor: {fileID: 11400000, guid: 51b15e9b5d25d7146b04b5acd4596e01, type: 2}
+      expression: 0
+      onScreenImageID: 1
+    backgroundChanges:
+    - sprite: {fileID: 21300000, guid: acfb32f4785d29f4d90f851679d75232, type: 3}
+      onScreenImageID: 0
+    audioClip: {fileID: 0}
+    stopAudio: 0
+  - line: "\uADF8\uB7EC\uB2C8\uAE4C, \uB098 \uC9C0\uAE08 X \uB41C\uAC74\uAC00..?"
+    actor: {fileID: 11400000, guid: e839f90eddbba9e44a504393a0dc556f, type: 2}
+    spriteChanges:
+    - actor: {fileID: 11400000, guid: 3d2134866ebb33748a99246530c5eff7, type: 2}
+      expression: 0
+      onScreenImageID: 3
+    - actor: {fileID: 11400000, guid: 51b15e9b5d25d7146b04b5acd4596e01, type: 2}
+      expression: 0
+      onScreenImageID: 1
+    backgroundChanges:
+    - sprite: {fileID: 21300000, guid: acfb32f4785d29f4d90f851679d75232, type: 3}
+      onScreenImageID: 0
+    audioClip: {fileID: 0}
+    stopAudio: 0
+  - line: "\uACE0\uC624\uC624\uC624\uC624-"
+    actor: {fileID: 11400000, guid: e839f90eddbba9e44a504393a0dc556f, type: 2}
+    spriteChanges:
+    - actor: {fileID: 0}
+      expression: 0
+      onScreenImageID: 3
+    - actor: {fileID: 0}
+      expression: 0
+      onScreenImageID: 1
+    backgroundChanges:
+    - sprite: {fileID: 21300000, guid: acfb32f4785d29f4d90f851679d75232, type: 3}
+      onScreenImageID: 0
+    audioClip: {fileID: 0}
+    stopAudio: 0
+  - line: "<\uB9C8\uC655\uC131 \uC9D1\uBB34\uC2E4>"
+    actor: {fileID: 11400000, guid: e839f90eddbba9e44a504393a0dc556f, type: 2}
+    spriteChanges:
+    - actor: {fileID: 0}
+      expression: 0
+      onScreenImageID: 3
+    - actor: {fileID: 0}
+      expression: 0
+      onScreenImageID: 1
+    backgroundChanges:
+    - sprite: {fileID: 21300000, guid: acfb32f4785d29f4d90f851679d75232, type: 3}
+      onScreenImageID: 0
+    audioClip: {fileID: 0}
+    stopAudio: 0
+  - line: "\uBCA8\uC81C\uBDF0\uD2B8.. \uB124\uB188\uC774 \uC65C \uC5EC\uAE30 \uC788\uB294\uC9C0\uB294..
+      \uB124\uB188 \uC790\uC2E0\uC774 \uB354 \uC798 \uC54C\uACE0\uC788\uC744 \uD130.."
+    actor: {fileID: 11400000, guid: b295d32376313fc418bd3550059e7929, type: 2}
+    spriteChanges:
+    - actor: {fileID: 11400000, guid: 51b15e9b5d25d7146b04b5acd4596e01, type: 2}
+      expression: 0
+      onScreenImageID: 1
+    - actor: {fileID: 11400000, guid: b295d32376313fc418bd3550059e7929, type: 2}
+      expression: 0
+      onScreenImageID: 6
+    backgroundChanges:
+    - sprite: {fileID: 21300000, guid: acfb32f4785d29f4d90f851679d75232, type: 3}
+      onScreenImageID: 0
+    audioClip: {fileID: 0}
+    stopAudio: 0
+  - line: "\uB9C8\uC9C0\uB9C9\uC73C\uB85C \uD55C\uBC88.. \uB124\uB188\uC758 \uC8C4\uB97C
+      \uC9C1\uC811 \uACE0\uD560 \uAE30\uD68C\uB97C \uC8FC\uACA0\uB2E4. "
+    actor: {fileID: 11400000, guid: b295d32376313fc418bd3550059e7929, type: 2}
+    spriteChanges:
+    - actor: {fileID: 11400000, guid: 51b15e9b5d25d7146b04b5acd4596e01, type: 2}
+      expression: 0
+      onScreenImageID: 1
+    - actor: {fileID: 11400000, guid: b295d32376313fc418bd3550059e7929, type: 2}
+      expression: 0
+      onScreenImageID: 6
+    backgroundChanges:
+    - sprite: {fileID: 21300000, guid: acfb32f4785d29f4d90f851679d75232, type: 3}
+      onScreenImageID: 0
+    audioClip: {fileID: 0}
+    stopAudio: 0
+  - line: "\uD5C8\uB098 \uC870\uAE08\uC774\uB77C\uB3C4 \uAC70\uC9D3\uBD80\uB801\uC774
+      \uB098\uC628\uB2E4\uBA74 \uADF8 \uC989\uC2DC \uB124\uB188\uC758 \uBAA9\uC744
+      \uCE60 \uAC83\uC774\uB2C8 \uADF8\uB54C\uB294 \uAC01\uC624\uD574\uB77C.."
+    actor: {fileID: 11400000, guid: b295d32376313fc418bd3550059e7929, type: 2}
+    spriteChanges:
+    - actor: {fileID: 11400000, guid: 51b15e9b5d25d7146b04b5acd4596e01, type: 2}
+      expression: 0
+      onScreenImageID: 1
+    - actor: {fileID: 11400000, guid: b295d32376313fc418bd3550059e7929, type: 2}
+      expression: 0
+      onScreenImageID: 6
+    backgroundChanges:
+    - sprite: {fileID: 21300000, guid: acfb32f4785d29f4d90f851679d75232, type: 3}
+      onScreenImageID: 0
+    audioClip: {fileID: 0}
+    stopAudio: 0
+  - line: "\uC608, \uD3D0\uD558.."
+    actor: {fileID: 11400000, guid: 51b15e9b5d25d7146b04b5acd4596e01, type: 2}
+    spriteChanges:
+    - actor: {fileID: 11400000, guid: b295d32376313fc418bd3550059e7929, type: 2}
+      expression: 0
+      onScreenImageID: 6
+    - actor: {fileID: 11400000, guid: 51b15e9b5d25d7146b04b5acd4596e01, type: 2}
+      expression: 0
+      onScreenImageID: 1
+    backgroundChanges:
+    - sprite: {fileID: 21300000, guid: acfb32f4785d29f4d90f851679d75232, type: 3}
+      onScreenImageID: 0
+    audioClip: {fileID: 0}
+    stopAudio: 0
+  - line: "\uCD5C\uADFC \uACF5\uC8FC\uB2D8\uAED8\uC11C \uC81C\uAC00 \uC62C\uB824\uB4DC\uB9AC\uB294
+      \uC2DD\uC0AC\uC5D0 \uB9CC\uC871\uD558\uC9C0 \uBABB\uD558\uACE0 \uACC4\uC2E0
+      \uC810\uC740 \uC800\uB3C4 \uBF08\uC800\uB9AC\uAC8C \uB290\uB07C\uB294 \uBC14\uC785\uB2C8\uB2E4.."
+    actor: {fileID: 11400000, guid: 51b15e9b5d25d7146b04b5acd4596e01, type: 2}
+    spriteChanges:
+    - actor: {fileID: 11400000, guid: b295d32376313fc418bd3550059e7929, type: 2}
+      expression: 0
+      onScreenImageID: 6
+    - actor: {fileID: 11400000, guid: 51b15e9b5d25d7146b04b5acd4596e01, type: 2}
+      expression: 0
+      onScreenImageID: 1
+    backgroundChanges:
+    - sprite: {fileID: 21300000, guid: acfb32f4785d29f4d90f851679d75232, type: 3}
+      onScreenImageID: 0
+    audioClip: {fileID: 0}
+    stopAudio: 0
+  - line: "\uD558\uB8E8\uBE68\uB9AC \uC0C8\uB85C\uC6B4 \uC74C\uC2DD\uC744 \uB9CC\uB4E4\uC5B4
+      \uACF5\uC8FC\uB2D8\uAED8\uC11C \uC2DD\uC695\uC744 \uB418\uCC3E\uC73C\uC2E4
+      \uC218 \uC788\uB3C4\uB85D \uC800\uC640 \uC81C \uC0B0\uD558 \uC694\uB9AC\uC0AC\uB4E4\uC774
+      \uC0AC\uB825\uC744 \uB2E4\uD558\uACA0\uC2B5\uB2C8\uB2E4."
+    actor: {fileID: 11400000, guid: 51b15e9b5d25d7146b04b5acd4596e01, type: 2}
+    spriteChanges:
+    - actor: {fileID: 11400000, guid: b295d32376313fc418bd3550059e7929, type: 2}
+      expression: 0
+      onScreenImageID: 6
+    - actor: {fileID: 11400000, guid: 51b15e9b5d25d7146b04b5acd4596e01, type: 2}
+      expression: 0
+      onScreenImageID: 1
+    backgroundChanges:
+    - sprite: {fileID: 21300000, guid: acfb32f4785d29f4d90f851679d75232, type: 3}
+      onScreenImageID: 0
+    audioClip: {fileID: 0}
+    stopAudio: 0
+  - line: "\uADF8\uB7EC\uB2C8 \uBD80\uB514 \uB178\uC5EC\uC6C0\uC744 \uD478\uC2DC\uACE0.."
+    actor: {fileID: 11400000, guid: 51b15e9b5d25d7146b04b5acd4596e01, type: 2}
+    spriteChanges:
+    - actor: {fileID: 11400000, guid: b295d32376313fc418bd3550059e7929, type: 2}
+      expression: 0
+      onScreenImageID: 6
+    - actor: {fileID: 11400000, guid: 51b15e9b5d25d7146b04b5acd4596e01, type: 2}
+      expression: 0
+      onScreenImageID: 1
+    backgroundChanges:
+    - sprite: {fileID: 21300000, guid: acfb32f4785d29f4d90f851679d75232, type: 3}
+      onScreenImageID: 0
+    audioClip: {fileID: 0}
+    stopAudio: 0
+  - line: "\uB354\uC774\uC0C1 \uB4E4\uC744 \uD544\uC694\uB3C4 \uC5C6\uAD70. \uB124\uB188\uC774\uB098
+      \uB2E4\uB978\uB188\uB4E4\uC774\uB098.. \uC804\uBD80 \uC575\uBB34\uC0C8\uAC19\uC774
+      \uB611\uAC19\uC740 \uB9D0\uC744 \uB0B4\uBC49\uACE0.. \uCC45\uC784\uAC10\uC774\uB77C\uACE4
+      \uC870\uAE08\uB3C4 \uCC3E\uC544\uBCFC \uC218\uAC00 \uC5C6\uAD6C\uB098."
+    actor: {fileID: 11400000, guid: b295d32376313fc418bd3550059e7929, type: 2}
+    spriteChanges:
+    - actor: {fileID: 11400000, guid: 51b15e9b5d25d7146b04b5acd4596e01, type: 2}
+      expression: 0
+      onScreenImageID: 1
+    - actor: {fileID: 11400000, guid: b295d32376313fc418bd3550059e7929, type: 2}
+      expression: 0
+      onScreenImageID: 6
+    backgroundChanges:
+    - sprite: {fileID: 21300000, guid: acfb32f4785d29f4d90f851679d75232, type: 3}
+      onScreenImageID: 0
+    audioClip: {fileID: 0}
+    stopAudio: 0
+  - line: "\uB9C8\uC74C\uAC19\uC544\uC120 \uC9C0\uAE08 \uB2F9\uC7A5 \uB124\uB188\uC744
+      \uCC38\uC218\uD558\uACE0 \uC0C8 \uC8FC\uBC29\uC7A5\uC744 \uB4E4\uC774\uACE0
+      \uC2F6\uB2E4\uB9CC.."
+    actor: {fileID: 11400000, guid: b295d32376313fc418bd3550059e7929, type: 2}
+    spriteChanges:
+    - actor: {fileID: 11400000, guid: 51b15e9b5d25d7146b04b5acd4596e01, type: 2}
+      expression: 0
+      onScreenImageID: 1
+    - actor: {fileID: 11400000, guid: b295d32376313fc418bd3550059e7929, type: 2}
+      expression: 0
+      onScreenImageID: 6
+    backgroundChanges:
+    - sprite: {fileID: 21300000, guid: acfb32f4785d29f4d90f851679d75232, type: 3}
+      onScreenImageID: 0
+    audioClip: {fileID: 0}
+    stopAudio: 0
+  - line: "\uB124\uB188\uB3C4 \uC54C\uB2E4\uC2DC\uD53C \uB124 \uC544\uBC84\uC9C0\uC640
+      \uB098\uB294 \uC601\uAC81\uC758 \uC138\uC6D4\uC744 \uD568\uAED8\uD55C \uCE5C\uC6B0.. "
+    actor: {fileID: 11400000, guid: b295d32376313fc418bd3550059e7929, type: 2}
+    spriteChanges:
+    - actor: {fileID: 11400000, guid: 51b15e9b5d25d7146b04b5acd4596e01, type: 2}
+      expression: 0
+      onScreenImageID: 1
+    - actor: {fileID: 11400000, guid: b295d32376313fc418bd3550059e7929, type: 2}
+      expression: 0
+      onScreenImageID: 6
+    backgroundChanges:
+    - sprite: {fileID: 21300000, guid: acfb32f4785d29f4d90f851679d75232, type: 3}
+      onScreenImageID: 0
+    audioClip: {fileID: 0}
+    stopAudio: 0
+  - line: "\uC0AC\uB791\uD558\uB294 \uB538\uC758 \uB208\uBB3C\uC744 \uB2E6\uACE0\uC790
+      \uB0B4 \uBC97\uC758 \uB208\uBB3C\uC744 \uBCFC \uC218\uB294 \uC5C6\uB2E4."
+    actor: {fileID: 11400000, guid: b295d32376313fc418bd3550059e7929, type: 2}
+    spriteChanges:
+    - actor: {fileID: 11400000, guid: 51b15e9b5d25d7146b04b5acd4596e01, type: 2}
+      expression: 0
+      onScreenImageID: 1
+    - actor: {fileID: 11400000, guid: b295d32376313fc418bd3550059e7929, type: 2}
+      expression: 0
+      onScreenImageID: 6
+    backgroundChanges:
+    - sprite: {fileID: 21300000, guid: acfb32f4785d29f4d90f851679d75232, type: 3}
+      onScreenImageID: 0
+    audioClip: {fileID: 0}
+    stopAudio: 0
+  - line: "\uB530\uB77C\uC11C \uB124\uB188\uC5D0\uAC8C \uAE30\uD68C\uB97C \uC8FC\uC9C0. "
+    actor: {fileID: 11400000, guid: b295d32376313fc418bd3550059e7929, type: 2}
+    spriteChanges:
+    - actor: {fileID: 11400000, guid: 51b15e9b5d25d7146b04b5acd4596e01, type: 2}
+      expression: 0
+      onScreenImageID: 1
+    - actor: {fileID: 11400000, guid: b295d32376313fc418bd3550059e7929, type: 2}
+      expression: 0
+      onScreenImageID: 6
+    backgroundChanges:
+    - sprite: {fileID: 21300000, guid: acfb32f4785d29f4d90f851679d75232, type: 3}
+      onScreenImageID: 0
+    audioClip: {fileID: 0}
+    stopAudio: 0
+  - line: "\uC608..? \uB3C4\uB300\uCCB4 \uC5B4\uB5A4.."
+    actor: {fileID: 11400000, guid: 51b15e9b5d25d7146b04b5acd4596e01, type: 2}
+    spriteChanges:
+    - actor: {fileID: 11400000, guid: b295d32376313fc418bd3550059e7929, type: 2}
+      expression: 0
+      onScreenImageID: 6
+    - actor: {fileID: 11400000, guid: 51b15e9b5d25d7146b04b5acd4596e01, type: 2}
+      expression: 0
+      onScreenImageID: 1
+    backgroundChanges:
+    - sprite: {fileID: 21300000, guid: acfb32f4785d29f4d90f851679d75232, type: 3}
+      onScreenImageID: 0
+    audioClip: {fileID: 0}
+    stopAudio: 0
+  - line: "\uACF5\uC8FC\uB97C \uC704\uD55C \uC694\uB9AC\uB97C \uB9CC\uB4E4\uC5B4\uC624\uAC70\uB77C.
+      \uB2E8, \uB9C8\uACC4 \uC74C\uC2DD\uB9CC \uAC00\uC9C0\uACE4 \uBD80\uC871\uD560
+      \uD130.."
+    actor: {fileID: 11400000, guid: b295d32376313fc418bd3550059e7929, type: 2}
+    spriteChanges:
+    - actor: {fileID: 11400000, guid: 51b15e9b5d25d7146b04b5acd4596e01, type: 2}
+      expression: 0
+      onScreenImageID: 1
+    - actor: {fileID: 11400000, guid: b295d32376313fc418bd3550059e7929, type: 2}
+      expression: 0
+      onScreenImageID: 6
+    backgroundChanges:
+    - sprite: {fileID: 21300000, guid: acfb32f4785d29f4d90f851679d75232, type: 3}
+      onScreenImageID: 0
+    audioClip: {fileID: 0}
+    stopAudio: 0
+  - line: "\uC778\uAC04\uACC4\uB4E0 \uCC9C\uACC4\uB4E0 \uC0C1\uAD00\uC5C6\uB2E4.
+      \uC774 \uC138\uC0C1 \uC804\uBD80\uB97C \uB4A4\uC838\uC11C\uB77C\uB3C4 \uACF5\uC8FC\uAC00
+      \uB9CC\uC871\uD560\uB9CC\uD55C \uC74C\uC2DD\uC744 \uB300\uB839\uD558\uB3C4\uB85D."
+    actor: {fileID: 11400000, guid: b295d32376313fc418bd3550059e7929, type: 2}
+    spriteChanges:
+    - actor: {fileID: 11400000, guid: 51b15e9b5d25d7146b04b5acd4596e01, type: 2}
+      expression: 0
+      onScreenImageID: 1
+    - actor: {fileID: 11400000, guid: b295d32376313fc418bd3550059e7929, type: 2}
+      expression: 0
+      onScreenImageID: 6
+    backgroundChanges:
+    - sprite: {fileID: 21300000, guid: acfb32f4785d29f4d90f851679d75232, type: 3}
+      onScreenImageID: 0
+    audioClip: {fileID: 0}
+    stopAudio: 0
+  - line: "\uC640.. \uC9C4\uC9DC \uB9DD\uD588\uB2E4. \uC778\uAC04\uACC4\uB294 \uADF8\uB807\uB2E4
+      \uCCD0\uB3C4 \uCC9C\uACC4..? \uB09C \uC545\uB9CC\uB370?"
+    actor: {fileID: 11400000, guid: e839f90eddbba9e44a504393a0dc556f, type: 2}
+    spriteChanges:
+    - actor: {fileID: 11400000, guid: b295d32376313fc418bd3550059e7929, type: 2}
+      expression: 0
+      onScreenImageID: 6
+    - actor: {fileID: 11400000, guid: 51b15e9b5d25d7146b04b5acd4596e01, type: 2}
+      expression: 0
+      onScreenImageID: 1
+    backgroundChanges:
+    - sprite: {fileID: 21300000, guid: acfb32f4785d29f4d90f851679d75232, type: 3}
+      onScreenImageID: 0
+    audioClip: {fileID: 0}
+    stopAudio: 0
+  - line: "\uB300\uB2F5\uD558\uC9C0 \uC54A\uACA0\uB2E4\uB294\uAC74.. \uC74C\uC2DD
+      \uB300\uC2E0 \uBAA9\uC744 \uBC14\uCE58\uACA0\uB2E8 \uB73B\uC774\uB0D0?"
+    actor: {fileID: 11400000, guid: b295d32376313fc418bd3550059e7929, type: 2}
+    spriteChanges:
+    - actor: {fileID: 11400000, guid: 51b15e9b5d25d7146b04b5acd4596e01, type: 2}
+      expression: 0
+      onScreenImageID: 1
+    - actor: {fileID: 11400000, guid: b295d32376313fc418bd3550059e7929, type: 2}
+      expression: 0
+      onScreenImageID: 6
+    backgroundChanges:
+    - sprite: {fileID: 21300000, guid: acfb32f4785d29f4d90f851679d75232, type: 3}
+      onScreenImageID: 0
+    audioClip: {fileID: 0}
+    stopAudio: 0
+  - line: "\uC544\uB2D9\uB2C8\uB2E4, \uD3D0\uD558! \uC774 \uD55C\uBAB8 \uBC14\uCCD0
+      \uC774\uBC88\uC5D0\uC57C\uB9D0\uB85C \uCD5C\uACE0\uC758 \uC694\uB9AC\uB97C
+      \uB9CC\uB4E4\uC5B4\uBCF4\uC774\uACA0\uC2B5\uB2C8\uB2E4!"
+    actor: {fileID: 11400000, guid: 51b15e9b5d25d7146b04b5acd4596e01, type: 2}
+    spriteChanges:
+    - actor: {fileID: 11400000, guid: b295d32376313fc418bd3550059e7929, type: 2}
+      expression: 0
+      onScreenImageID: 6
+    - actor: {fileID: 11400000, guid: 51b15e9b5d25d7146b04b5acd4596e01, type: 2}
+      expression: 0
+      onScreenImageID: 1
+    backgroundChanges:
+    - sprite: {fileID: 21300000, guid: acfb32f4785d29f4d90f851679d75232, type: 3}
+      onScreenImageID: 0
+    audioClip: {fileID: 0}
+    stopAudio: 0
+  - line: "\uC88B\uB2E4. \uD608\uC5F0\uC774 \uB110 \uAD6C\uD55C \uB9CC\uD07C, \uB098\uB3C4
+      \uC774\uBC88\uC5D0\uB294 \uC801\uC9C0\uC54A\uC740 \uAE30\uB300\uB97C \uD574\uBCF4\uB9C8.."
+    actor: {fileID: 11400000, guid: b295d32376313fc418bd3550059e7929, type: 2}
+    spriteChanges:
+    - actor: {fileID: 11400000, guid: 51b15e9b5d25d7146b04b5acd4596e01, type: 2}
+      expression: 0
+      onScreenImageID: 1
+    - actor: {fileID: 11400000, guid: b295d32376313fc418bd3550059e7929, type: 2}
+      expression: 0
+      onScreenImageID: 6
+    backgroundChanges:
+    - sprite: {fileID: 21300000, guid: acfb32f4785d29f4d90f851679d75232, type: 3}
+      onScreenImageID: 0
+    audioClip: {fileID: 0}
+    stopAudio: 0
+  - line: "\uC65C\uB0D0\uD558\uBA74.. \uC774\uBC88\uC5D0\uB3C4 \uB0A0, \uADF8\uB9AC\uACE0
+      \uB0B4 \uB538\uC744 \uC2E4\uB9DD\uC2DC\uCF30\uB2E4\uAC04 \uADF8\uB54C\uB294
+      \uB124\uB188\uC774 \uC6B0\uB9AC \uC2DD\uD0C1\uC5D0 \uC62C\uB77C\uAC08\uD14C\uB2C8\uAE4C."
+    actor: {fileID: 11400000, guid: b295d32376313fc418bd3550059e7929, type: 2}
+    spriteChanges:
+    - actor: {fileID: 11400000, guid: 51b15e9b5d25d7146b04b5acd4596e01, type: 2}
+      expression: 0
+      onScreenImageID: 1
+    - actor: {fileID: 11400000, guid: b295d32376313fc418bd3550059e7929, type: 2}
+      expression: 0
+      onScreenImageID: 6
+    backgroundChanges:
+    - sprite: {fileID: 21300000, guid: acfb32f4785d29f4d90f851679d75232, type: 3}
+      onScreenImageID: 0
+    audioClip: {fileID: 0}
+    stopAudio: 0

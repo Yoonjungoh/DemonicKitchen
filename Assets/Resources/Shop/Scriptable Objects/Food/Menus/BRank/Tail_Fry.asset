@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f35e84a3620a9b4f90493d6fd123eb5, type: 3}
+  m_Name: Tail_Fry
+  m_EditorClassIdentifier: 
+  ID: 8
+  image: {fileID: 21300000, guid: 37ffe28fd75fd9a499189af6af3f23ee, type: 3}
+  title: "\uAF2C\uB9AC \uBCF6\uC74C"
+  description: "\uC0BC\uAC01 \uAF2C\uB9AC\uB97C \uBAA8\uC544 \uBCF6\uC740 \uCAC4\uAE43\uD55C
+    \uC694\uB9AC!"
+  rank: B
+  successRate: 50
+  cost: 3000
+  ingridientNeeded:
+  - {fileID: 11400000, guid: 5c240b03a5e8f454998a8f36221c0bb8, type: 2}
+  - {fileID: 11400000, guid: 2b656359630fa9147bc7500089be8336, type: 2}
+  - {fileID: 11400000, guid: d223a0cc27e4d184eb060a57169eb699, type: 2}

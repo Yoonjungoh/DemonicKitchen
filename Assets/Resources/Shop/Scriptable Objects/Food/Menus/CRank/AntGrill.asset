@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f35e84a3620a9b4f90493d6fd123eb5, type: 3}
+  m_Name: AntGrill
+  m_EditorClassIdentifier: 
+  ID: 2
+  image: {fileID: 21300000, guid: 23478ea5d06c76049a28067b1f57b723, type: 3}
+  title: "\uAC1C\uBBF8 \uAF2C\uCE58\uAD6C\uC774"
+  description: "\uAFC0\uB2E8\uC9C0 \uAC1C\uBBF8\uB97C \uAF2C\uCE58\uC5D0 \uAF42\uC544
+    \uC815\uC131\uC2A4\uB7FD\uAC8C \uAD6C\uC6CC\uB0B8 \uC694\uB9AC"
+  rank: C
+  successRate: 100
+  cost: 1000
+  ingridientNeeded:
+  - {fileID: 11400000, guid: f0e9121aeba2ebc469205c557d7fd817, type: 2}
+  - {fileID: 11400000, guid: d29d5dd35799f974a8badaa5b43cb125, type: 2}

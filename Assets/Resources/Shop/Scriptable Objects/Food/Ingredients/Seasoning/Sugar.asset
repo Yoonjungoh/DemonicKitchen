@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ba594bacf853ef4cb9123d6e81f9de2, type: 3}
+  m_Name: Sugar
+  m_EditorClassIdentifier: 
+  ID: 13
+  image: {fileID: 21300000, guid: 4296f2bcf06105846a6487d9a9395eb7, type: 3}
+  title: "\uC124\uD0D5"
+  description: "\uC0AC\uD0D5\uC218\uC218\uB85C\uBD80\uD130 \uC5BB\uC5B4\uC9C0\uB294
+    \uB2EC\uB514\uB2E8 \uC124\uD0D5. "
+  rank: C
+  salesPrice: 10
+  isMainIngredient: 0
+  isSeasoning: 1
+  isBasicIngredient: 0
+  isSpecialIngredient: 0

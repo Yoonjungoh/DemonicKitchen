@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f35e84a3620a9b4f90493d6fd123eb5, type: 3}
+  m_Name: Chocolate
+  m_EditorClassIdentifier: 
+  ID: 22
+  image: {fileID: 21300000, guid: 00c4cf5fc6f5ef74081025699e338d8c, type: 3}
+  title: "\uD30C\uBCA0 \uCD08\uCF5C\uB9BF"
+  description: "\uD55C \uC785 \uBD80\uB4DC\uB7FD\uAC8C \uBCA0\uC5B4\uBB3C\uBA74 \uC785\uC548\uC5D0
+    \uAC00\uB4DD \uD37C\uC9C0\uB294 \uB2EC\uCF64\uD558\uACE0 \uACE0\uAE09\uC2A4\uB7EC\uC6B4 
+    \uC0DD \uCD08\uCF5C\uB9BF!"
+  rank: SS
+  successRate: 3
+  cost: 15000
+  ingridientNeeded:
+  - {fileID: 11400000, guid: d83bfa7a2df80774caef7330b9841fb8, type: 2}
+  - {fileID: 11400000, guid: 8d2914e931cef76419c0a35765676fe5, type: 2}
+  - {fileID: 11400000, guid: 2b656359630fa9147bc7500089be8336, type: 2}
+  - {fileID: 11400000, guid: 9dd68f0a2ec83774c949ec7140c60539, type: 2}

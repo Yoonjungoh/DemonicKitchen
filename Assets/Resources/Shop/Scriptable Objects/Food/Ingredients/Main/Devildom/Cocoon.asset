@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ba594bacf853ef4cb9123d6e81f9de2, type: 3}
+  m_Name: Cocoon
+  m_EditorClassIdentifier: 
+  ID: 18
+  image: {fileID: 21300000, guid: edc2d849f487b3b4591b44fe39d05d90, type: 3}
+  title: "\uBC88\uB370\uAE30"
+  description: "\uB2E4\uC774\uC5B4\uD2B8\uC5D0\uB3C4 \uC88B\uC740 \uACE0\uB2E8\uBC31
+    \uAC04\uC2DD\uC7AC\uB8CC!"
+  rank: A
+  salesPrice: 70
+  isMainIngredient: 1
+  isSeasoning: 0
+  isBasicIngredient: 0
+  isSpecialIngredient: 0

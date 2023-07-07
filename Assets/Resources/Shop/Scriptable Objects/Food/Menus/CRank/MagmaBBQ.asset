@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f35e84a3620a9b4f90493d6fd123eb5, type: 3}
+  m_Name: MagmaBBQ
+  m_EditorClassIdentifier: 
+  ID: 0
+  image: {fileID: 21300000, guid: 64d573e603094ca46a7f6bbd4ede413c, type: 3}
+  title: "\uB9C8\uADF8\uB9C8 \uD6C8\uC81C  BBQ"
+  description: "\uB9C8\uADF8\uB9C8 \uC5F0\uAE30\uB85C \uC5F4\uC2EC\uD788 \uAD6C\uC6B4
+    \uD1B5 \uB2E4\uB9AC BBQ!"
+  rank: C
+  successRate: 100
+  cost: 1000
+  ingridientNeeded:
+  - {fileID: 11400000, guid: 254869a1df9ea34439d7f4762c74a2d8, type: 2}
+  - {fileID: 11400000, guid: 19f46d8a2fda76b42a2cfeec60e17973, type: 2}

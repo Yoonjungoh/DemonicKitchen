@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f35e84a3620a9b4f90493d6fd123eb5, type: 3}
+  m_Name: Fried_Leg
+  m_EditorClassIdentifier: 
+  ID: 16
+  image: {fileID: 21300000, guid: aa7c53e37f6a40c4b9b959a1deb7e0cd, type: 3}
+  title: "\uD504\uB77C\uC774\uB4DC \uBD09"
+  description: "\uC778\uAC04\uC774 \uC81C\uC77C \uC88B\uC544\uD558\uB294 \uBD80\uC704\uC778
+    \uB2ED\uB2E4\uB9AC\uB97C \uBC14\uC0AD\uD558\uAC8C \uD280\uACA8\uB0C8\uB2E4!"
+  rank: S
+  successRate: 5
+  cost: 10000
+  ingridientNeeded:
+  - {fileID: 11400000, guid: e5c9494aeaf172848b26e2dc7242ddfa, type: 2}
+  - {fileID: 11400000, guid: 2b656359630fa9147bc7500089be8336, type: 2}
+  - {fileID: 11400000, guid: 2193015f76101234cac0085968efcc7c, type: 2}

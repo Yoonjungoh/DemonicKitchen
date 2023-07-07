@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6dccc4f6dc38314bb4186a7dba6ed80, type: 3}
+  m_Name: Heaven5
+  m_EditorClassIdentifier: 
+  packageTitle: "\uCC9C\uC0C1\uACC4 \uD328\uD0A4\uC9C0 5"
+  packagePrice: 9700
+  packageEfficiency: 600
+  packageGold: 50000
+  packageRuby: 700
+  basicIngredientQty: 0
+  seasoningQty: 0
+  enhanceScrollQty: 1
+  ingredientScrollQty: 0
+  packageCrystal: 5

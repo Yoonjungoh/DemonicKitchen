@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f35e84a3620a9b4f90493d6fd123eb5, type: 3}
+  m_Name: Fondant_Au_Chocolat
+  m_EditorClassIdentifier: 
+  ID: 23
+  image: {fileID: 21300000, guid: d748e66e4c45e7140bdbd9ef5a61a619, type: 3}
+  title: "\uD401\uB2F9 \uC624 \uC1FC\uCF5C\uB77C"
+  description: "\uCC10\uD55C \uCD08\uCF54\uAC00 \uD758\uB7EC\uB098\uC624\uB294 \uB530\uB73B\uD55C
+    \uBA38\uD540. \uC774\uAC70\uC57C \uB9D0\uB85C \uD0C0\uB77D\uD55C \uB9DB\uC774
+    \uC544\uB2D0\uAE4C? \uD600\uAC00 \uB179\uC544\uBC84\uB9B4 \uAC83 \uAC19\uC740
+    \uC545\uB9C8\uC758 \uB514\uC800\uD2B8! "
+  rank: SSS
+  successRate: 1
+  cost: 30000
+  ingridientNeeded:
+  - {fileID: 11400000, guid: 1834f8ca373a6a6459bb96309565b0e5, type: 2}
+  - {fileID: 11400000, guid: 5ee1d4b95d5658a449a06692567dbe7c, type: 2}
+  - {fileID: 11400000, guid: 2193015f76101234cac0085968efcc7c, type: 2}
+  - {fileID: 11400000, guid: 9dd68f0a2ec83774c949ec7140c60539, type: 2}
+  - {fileID: 11400000, guid: 5288b08267138bb449813a1e606b3a31, type: 2}

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ba594bacf853ef4cb9123d6e81f9de2, type: 3}
+  m_Name: Dark_Powder
+  m_EditorClassIdentifier: 
+  ID: 39
+  image: {fileID: 21300000, guid: 6ed2e6e014168064cbd08f29aec21c7b, type: 3}
+  title: "\uB2E4\uD06C \uD30C\uC6B0\uB354"
+  description: "\uC5B4\uB450\uC6B4 \uAC08\uC0C9 \uBE5B\uC758 \uD30C\uC6B0\uB354."
+  rank: S
+  salesPrice: 500
+  isMainIngredient: 0
+  isSeasoning: 0
+  isBasicIngredient: 0
+  isSpecialIngredient: 1

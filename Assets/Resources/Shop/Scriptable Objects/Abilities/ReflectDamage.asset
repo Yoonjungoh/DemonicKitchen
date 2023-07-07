@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ce2ec52044c24143b3ba1d70934c62c, type: 3}
+  m_Name: ReflectDamage
+  m_EditorClassIdentifier: 
+  ID: 3
+  image: {fileID: 21300000, guid: 1d0a269e9bd07d845bfb56967d430c05, type: 3}
+  title: "\uB370\uBBF8\uC9C0 \uBC18\uC0AC"
+  rank: SS
+  unlockCost: 3000
+  enhanceCost: 3000
+  enhanceStoneCost: 3
+  prob: 5
+  enhanceProb: 10
+  isUnlocked: 0
+  skillLevel: 0

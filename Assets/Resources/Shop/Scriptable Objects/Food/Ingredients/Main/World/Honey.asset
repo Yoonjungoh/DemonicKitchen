@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ba594bacf853ef4cb9123d6e81f9de2, type: 3}
+  m_Name: Honey
+  m_EditorClassIdentifier: 
+  ID: 24
+  image: {fileID: 21300000, guid: c3546ae7646da2e4e81f9915d152c5af, type: 3}
+  title: "\uAFC0"
+  description: "\uB2EC\uC9DD\uC9C0\uADFC\uD55C \uCC9C\uC5F0 \uAFC0!"
+  rank: B
+  salesPrice: 50
+  isMainIngredient: 1
+  isSeasoning: 0
+  isBasicIngredient: 0
+  isSpecialIngredient: 0

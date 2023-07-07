@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f35e84a3620a9b4f90493d6fd123eb5, type: 3}
+  m_Name: Egg_Soup
+  m_EditorClassIdentifier: 
+  ID: 17
+  image: {fileID: 21300000, guid: 5c83305b7d0e99e41871b1a9eb46762d, type: 3}
+  title: "\uB2EC\uAC40\uD0D5"
+  description: "\uB9D1\uC740 \uAD6D\uC774 \uBA39\uACE0 \uC2F6\uC740 \uB0A0 \uAC04\uB2E8\uD558\uAC8C
+    \uBA39\uAE30 \uC88B\uC740 \uD0D5!"
+  rank: S
+  successRate: 5
+  cost: 10000
+  ingridientNeeded:
+  - {fileID: 11400000, guid: 282cca049c15f024d97c1e837a597e16, type: 2}
+  - {fileID: 11400000, guid: 2b656359630fa9147bc7500089be8336, type: 2}
+  - {fileID: 11400000, guid: 5ee1d4b95d5658a449a06692567dbe7c, type: 2}

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f35e84a3620a9b4f90493d6fd123eb5, type: 3}
+  m_Name: Fried_Pork_Cutlet
+  m_EditorClassIdentifier: 
+  ID: 9
+  image: {fileID: 21300000, guid: 04541a1c492f8c644aa9a7dc1081088b, type: 3}
+  title: "\uB3C8\uAE4C\uC2A4"
+  description: "\uC778\uAC04\uACC4\uC758 \uC18C\uC6B8\uD478\uB4DC\u2605  \uBD80\uB4DC\uB7EC\uC6B4
+    \uC548\uC2EC\uC744 \uBC14\uC0AD\uD558\uAC8C! "
+  rank: A
+  successRate: 10
+  cost: 5000
+  ingridientNeeded:
+  - {fileID: 11400000, guid: 89c1493ae054718408c492bb8449778d, type: 2}
+  - {fileID: 11400000, guid: d29d5dd35799f974a8badaa5b43cb125, type: 2}
+  - {fileID: 11400000, guid: 2193015f76101234cac0085968efcc7c, type: 2}

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f35e84a3620a9b4f90493d6fd123eb5, type: 3}
+  m_Name: SagolSoup
+  m_EditorClassIdentifier: 
+  ID: 4
+  image: {fileID: 21300000, guid: 856555b97eadf1449ad04f85e6a1cdde, type: 3}
+  title: "\uC0AC\uACE8 \uAD6D\uBC25"
+  description: "1300\uB3C4\uC758 \uB9C8\uADF8\uB9C8\uB85C \uD384\uD384 \uB053\uC5EC\uB0B8
+    \uC9C4\uD55C \uC0AC\uACE8!"
+  rank: C
+  successRate: 100
+  cost: 1000
+  ingridientNeeded:
+  - {fileID: 11400000, guid: 128d6e25326c9854ea50a7f5d4ce744c, type: 2}
+  - {fileID: 11400000, guid: d29d5dd35799f974a8badaa5b43cb125, type: 2}

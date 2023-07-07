@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ba594bacf853ef4cb9123d6e81f9de2, type: 3}
+  m_Name: Chicken_Wing
+  m_EditorClassIdentifier: 
+  ID: 28
+  image: {fileID: 21300000, guid: 6f6e3f576bb77864ba0f0743baad60e9, type: 3}
+  title: "\uB2ED\uB0A0\uAC1C"
+  description: "\uC778\uAC04\uACC4\uC5D0\uC11C \uC778\uAE30\uB9CC\uC810\uC778 \uB2ED\uC758
+    \uB0A0\uAC1C."
+  rank: A
+  salesPrice: 70
+  isMainIngredient: 1
+  isSeasoning: 0
+  isBasicIngredient: 0
+  isSpecialIngredient: 0

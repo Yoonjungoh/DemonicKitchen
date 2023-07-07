@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f35e84a3620a9b4f90493d6fd123eb5, type: 3}
+  m_Name: Herb_Chicken_Wing
+  m_EditorClassIdentifier: 
+  ID: 12
+  image: {fileID: 21300000, guid: e034bbbb1b6c4604186571aac851e791, type: 3}
+  title: "\uD5C8\uBE0C \uB2ED\uB0A0\uAC1C \uAD6C\uC774"
+  description: "\uAE34 \uB9C9\uB300\uC5D0 \uB2ED\uB0A0\uAC1C\uB97C \uAF42\uC544 \uC55E\uB4A4\uB85C
+    \uB178\uB987\uD558\uAC8C \uAD6C\uC6CC\uB0B8 \uAD6C\uC774"
+  rank: A
+  successRate: 10
+  cost: 5000
+  ingridientNeeded:
+  - {fileID: 11400000, guid: e6539bcee1b5f754899be4f9571a2cc3, type: 2}
+  - {fileID: 11400000, guid: 19f46d8a2fda76b42a2cfeec60e17973, type: 2}
+  - {fileID: 11400000, guid: d223a0cc27e4d184eb060a57169eb699, type: 2}
