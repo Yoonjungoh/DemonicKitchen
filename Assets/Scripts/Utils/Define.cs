@@ -159,4 +159,9 @@ public class Define
         Player,
         Monster,
     }
+    public enum UIEvent
+    {
+        Click,
+        Drag
+    }
 }
